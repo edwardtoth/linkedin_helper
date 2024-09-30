@@ -1,8 +1,17 @@
 # LinkedIn Job Helper 
-By providing a LinkedIn job url, this application helps in:
-- Understanding Desired Skills: Identify the skills required for a particular job.
-- Providing Likely Interview Questions: Generate potential interview questions.
-- Preparing Questions for the Interviewer: Suggest questions you can ask during the interview.
+By providing a LinkedIn job url, this application helps you understand and prepare for a job interview:
+- `Recommended Skills`: Identify the skills recommended based on the job description (JD).
+- `Expected Interview Questions`: Generate potential interview questions based on the JD.
+- `Questions for the Interviewer`: Suggest questions you can ask during the interview.
+
+Here's a screenshot of what it looks like:
+
+![alt text](app.png "App screenshot")
+
+Other ideas: 
+- Another prompt would be to generate a personalized cover letter.
+- Upload your resume and calculate a likelihood score for the job. 
+- Recommend skills to learn and courses to join. 
 
 ## Instructions
 
